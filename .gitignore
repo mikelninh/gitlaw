@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+parser/law_index.json
+parser/fetch_log.txt
+.DS_Store
